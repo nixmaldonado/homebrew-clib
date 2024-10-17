@@ -1,9 +1,9 @@
 class Clib < Formula
   desc "A simple Go CLI Bitcoin application"
   homepage "https://github.com/nixmaldonado/clib"
-  url "https://github.com/nixmaldonado/clib/releases/download/v0.3.1/clib.tar.gz"
-  sha256 "7923b8ec1a8243cd3381e3ece3a8e54d1b3e0b8f0ef5db6f42a14b6c8e21f418"
-  version "0.3.1"
+  url "https://github.com/nixmaldonado/clib/releases/download/v0.3.2/clib.tar.gz"
+  sha256 "a5a1541b929c4b2f691cd9066ef054738fcc68bb2c0664b08d1eeef700d8b5eb"
+  version "0.3.2"
 
   def install
     bin.install "clib"
